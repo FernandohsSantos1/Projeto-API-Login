@@ -6,7 +6,7 @@ import datetime
 
 #Criar conexão com banco de dados
 USUARIO = 'root'
-SENHA = ''
+SENHA = ' '
 HOST = 'localhost'
 PORT = '3306'
 BANCO = 'apilogin'
